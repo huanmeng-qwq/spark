@@ -1,0 +1,8 @@
+name: spark
+version: ${pluginVersion}
+description: ${pluginDescription}
+authors: [huanmeng_qwq, Luck]
+website: https://spark.lucko.me/
+main: me.lucko.spark.kookbc.KookBCSparkPlugin
+
+api-version: 0.53.0
